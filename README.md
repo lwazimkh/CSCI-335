@@ -149,7 +149,7 @@ specific product
 - Input: TransactionID, ProductID, Amount
 - Output: Confirmation of item added
 3. Calculate Transaction Total
-- Calculate transaction total using product pride and applied discount
+- Calculate transaction total using product price and applied discount
 - Input: TransactionID, DiscountID
 - Output: Final calculated total
 4. View Transaction Details
